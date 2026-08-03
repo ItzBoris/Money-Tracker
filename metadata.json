@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Material 3 Expressive expense tracker with Google Messages SMS parsing, on-device ML categorization, visual graphs, and floating pill UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
